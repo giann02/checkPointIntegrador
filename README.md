@@ -1,1 +1,2 @@
 # checkPointIntegrador
+Gian Panigatti
